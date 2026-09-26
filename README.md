@@ -1,7 +1,10 @@
 # Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch
 NAME: Daniel C
+
 REG.NO: 212223240023
+
 A PyTorch image classification project that uses Transfer Learning with a pretrained ResNet18 model to classify images into three categories: Cat, Dog, and Panda.
+
 Progarm
 ```
 import sys
